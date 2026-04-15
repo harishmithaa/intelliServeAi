@@ -1,0 +1,501 @@
+day,menu,weather,footfall,prepared,consed,wasted
+Tue,Chapati,Rainy,310,317,289,28
+Thu,Pongal,Cloudy,479,521,454,67
+Fri,Pongal,Cloudy,330,315,299,16
+Mon,Pongal,Cloudy,447,447,413,34
+Tue,Biryani,Sunny,527,497,470,27
+Tue,Meals,Rainy,412,421,368,53
+Sat,Fried Rice,Rainy,123,121,109,12
+Tue,Pongal,Sunny,313,312,288,24
+Tue,Fried Rice,Rainy,391,373,343,30
+Wed,Chapati,Cloudy,325,319,285,34
+Sun,Fried Rice,Cloudy,272,270,245,25
+Tue,Fried Rice,Rainy,398,405,354,51
+Sun,Pongal,Sunny,222,223,195,28
+Fri,Chapati,Cloudy,431,438,393,45
+Sun,Fried Rice,Sunny,193,196,178,18
+Sat,Biryani,Cloudy,448,475,416,59
+Sat,Fried Rice,Sunny,121,118,109,9
+Wed,Chapati,Sunny,428,386,365,21
+Mon,Biryani,Rainy,469,451,420,31
+Thu,Biryani,Sunny,421,390,368,22
+Thu,Meals,Cloudy,322,314,282,32
+Mon,Meals,Sunny,419,405,360,45
+Mon,Pongal,Cloudy,161,156,139,17
+Sun,Pongal,Cloudy,150,146,129,17
+Wed,Pongal,Cloudy,417,418,366,52
+Mon,Meals,Sunny,289,277,259,18
+Wed,Fried Rice,Rainy,490,523,458,65
+Sat,Biryani,Sunny,219,209,196,13
+Thu,Chapati,Cloudy,557,522,493,29
+Sat,Biryani,Rainy,268,257,228,29
+Wed,Biryani,Rainy,561,531,493,38
+Thu,Biryani,Cloudy,395,369,339,30
+Mon,Chapati,Rainy,434,441,403,38
+Sun,Biryani,Sunny,188,198,174,24
+Sun,Meals,Sunny,472,478,436,42
+Fri,Fried Rice,Cloudy,255,242,225,17
+Mon,Pongal,Cloudy,186,178,161,17
+Tue,Meals,Sunny,290,301,267,34
+Sat,Biryani,Cloudy,408,402,379,23
+Sun,Pongal,Cloudy,160,162,151,11
+Wed,Meals,Rainy,552,560,499,61
+Mon,Fried Rice,Cloudy,511,472,448,24
+Sun,Meals,Rainy,330,331,291,40
+Tue,Meals,Cloudy,591,558,511,47
+Sat,Fried Rice,Rainy,360,375,340,35
+Tue,Meals,Sunny,531,533,501,32
+Tue,Pongal,Cloudy,193,195,175,20
+Fri,Pongal,Sunny,537,539,483,56
+Thu,Chapati,Sunny,506,471,438,33
+Sun,Pongal,Cloudy,140,137,129,8
+Tue,Fried Rice,Sunny,466,497,436,61
+Wed,Pongal,Rainy,303,286,271,15
+Fri,Fried Rice,Rainy,180,162,155,7
+Sat,Fried Rice,Rainy,245,257,228,29
+Tue,Biryani,Cloudy,365,346,323,23
+Mon,Meals,Sunny,315,320,281,39
+Fri,Fried Rice,Rainy,213,215,197,18
+Wed,Biryani,Cloudy,601,538,511,27
+Tue,Chapati,Sunny,452,440,389,51
+Fri,Fried Rice,Cloudy,210,213,196,17
+Fri,Fried Rice,Sunny,451,427,397,30
+Sat,Chapati,Sunny,283,288,258,30
+Tue,Meals,Sunny,541,537,477,60
+Tue,Meals,Cloudy,365,365,319,46
+Mon,Meals,Rainy,299,288,263,25
+Sat,Biryani,Sunny,286,286,265,21
+Sat,Fried Rice,Sunny,155,155,142,13
+Thu,Fried Rice,Cloudy,366,378,333,45
+Thu,Meals,Cloudy,532,485,455,30
+Sun,Fried Rice,Rainy,401,419,375,44
+Thu,Meals,Sunny,537,522,469,53
+Sat,Pongal,Sunny,100,101,90,11
+Sat,Chapati,Cloudy,380,356,329,27
+Wed,Fried Rice,Sunny,481,458,427,31
+Sun,Pongal,Cloudy,512,519,471,48
+Sun,Meals,Rainy,397,378,339,39
+Wed,Meals,Rainy,475,462,435,27
+Tue,Biryani,Sunny,313,332,289,43
+Fri,Pongal,Sunny,535,507,459,48
+Sun,Biryani,Rainy,232,221,209,12
+Wed,Pongal,Rainy,462,462,405,57
+Thu,Chapati,Sunny,286,277,260,17
+Mon,Fried Rice,Sunny,273,285,257,28
+Fri,Pongal,Sunny,529,517,470,47
+Sat,Chapati,Sunny,238,224,207,17
+Mon,Pongal,Cloudy,380,368,344,24
+Wed,Fried Rice,Cloudy,254,249,222,27
+Wed,Pongal,Rainy,326,325,286,39
+Thu,Fried Rice,Rainy,340,353,314,39
+Sun,Fried Rice,Sunny,379,364,333,31
+Fri,Pongal,Sunny,468,452,400,52
+Tue,Biryani,Sunny,298,304,270,34
+Wed,Chapati,Cloudy,229,235,208,27
+Mon,Chapati,Rainy,310,311,278,33
+Sat,Pongal,Cloudy,325,319,299,20
+Mon,Fried Rice,Sunny,571,582,521,61
+Tue,Chapati,Rainy,150,154,137,17
+Fri,Pongal,Cloudy,472,479,429,50
+Tue,Fried Rice,Sunny,575,528,498,30
+Fri,Chapati,Cloudy,221,212,195,17
+Sat,Pongal,Cloudy,251,254,234,20
+Fri,Biryani,Sunny,483,466,429,37
+Fri,Pongal,Rainy,313,330,290,40
+Sat,Pongal,Rainy,242,244,218,26
+Thu,Biryani,Rainy,502,474,445,29
+Tue,Meals,Sunny,345,321,304,17
+Mon,Chapati,Sunny,530,507,451,56
+Wed,Meals,Sunny,292,292,259,33
+Mon,Fried Rice,Rainy,392,361,338,23
+Tue,Chapati,Cloudy,412,397,372,25
+Tue,Biryani,Cloudy,346,323,299,24
+Thu,Chapati,Sunny,225,229,203,26
+Wed,Biryani,Sunny,594,628,550,78
+Thu,Pongal,Cloudy,174,169,148,21
+Tue,Chapati,Cloudy,352,359,313,46
+Tue,Pongal,Sunny,484,521,459,62
+Fri,Biryani,Rainy,381,370,347,23
+Mon,Chapati,Sunny,520,471,442,29
+Sat,Fried Rice,Sunny,150,145,134,11
+Fri,Meals,Cloudy,443,428,404,24
+Wed,Pongal,Rainy,243,242,222,20
+Thu,Meals,Rainy,199,194,184,10
+Wed,Meals,Rainy,470,457,410,47
+Thu,Fried Rice,Rainy,501,463,435,28
+Wed,Fried Rice,Sunny,300,290,267,23
+Sat,Biryani,Sunny,282,279,252,27
+Thu,Fried Rice,Rainy,465,447,412,35
+Mon,Meals,Cloudy,466,475,421,54
+Mon,Meals,Sunny,461,458,415,43
+Thu,Pongal,Rainy,254,240,221,19
+Thu,Fried Rice,Cloudy,374,376,347,29
+Sun,Meals,Sunny,364,354,311,43
+Tue,Biryani,Rainy,433,425,389,36
+Wed,Fried Rice,Rainy,297,270,253,17
+Tue,Pongal,Sunny,304,307,269,38
+Tue,Meals,Cloudy,468,437,403,34
+Wed,Pongal,Rainy,420,423,392,31
+Sun,Pongal,Cloudy,100,98,89,9
+Sun,Meals,Cloudy,220,212,188,24
+Thu,Fried Rice,Cloudy,225,214,201,13
+Sat,Meals,Sunny,451,422,387,35
+Wed,Biryani,Cloudy,486,499,459,40
+Thu,Chapati,Cloudy,496,486,458,28
+Sun,Biryani,Cloudy,432,425,402,23
+Tue,Pongal,Sunny,377,378,335,43
+Wed,Fried Rice,Sunny,458,459,410,49
+Sat,Biryani,Sunny,286,290,260,30
+Wed,Pongal,Cloudy,180,172,157,15
+Tue,Pongal,Cloudy,447,447,407,40
+Thu,Pongal,Cloudy,335,332,294,38
+Mon,Biryani,Cloudy,575,549,508,41
+Fri,Chapati,Rainy,215,209,192,17
+Sat,Meals,Cloudy,368,354,330,24
+Wed,Chapati,Sunny,510,520,463,57
+Mon,Biryani,Rainy,447,448,408,40
+Fri,Meals,Rainy,379,366,341,25
+Sun,Chapati,Sunny,258,241,221,20
+Wed,Fried Rice,Cloudy,248,254,233,21
+Fri,Chapati,Sunny,376,369,322,47
+Tue,Chapati,Sunny,391,384,355,29
+Thu,Biryani,Sunny,635,627,588,39
+Thu,Fried Rice,Cloudy,203,185,175,10
+Wed,Meals,Sunny,494,512,459,53
+Fri,Meals,Rainy,495,499,470,29
+Fri,Pongal,Cloudy,358,335,307,28
+Fri,Meals,Rainy,491,481,428,53
+Thu,Biryani,Cloudy,374,385,355,30
+Sat,Biryani,Sunny,552,531,475,56
+Wed,Biryani,Cloudy,598,610,562,48
+Tue,Meals,Rainy,386,415,365,50
+Mon,Pongal,Rainy,286,299,263,36
+Mon,Fried Rice,Sunny,316,315,278,37
+Sun,Fried Rice,Sunny,357,346,309,37
+Mon,Chapati,Rainy,510,492,460,32
+Sat,Biryani,Sunny,195,192,175,17
+Tue,Meals,Sunny,453,452,406,46
+Thu,Meals,Sunny,521,493,443,50
+Sun,Biryani,Rainy,234,242,221,21
+Sun,Pongal,Sunny,100,91,86,5
+Wed,Pongal,Cloudy,209,205,187,18
+Thu,Fried Rice,Rainy,401,379,348,31
+Wed,Chapati,Rainy,533,511,456,55
+Fri,Fried Rice,Sunny,256,241,218,23
+Sun,Chapati,Sunny,297,283,258,25
+Tue,Chapati,Cloudy,273,263,248,15
+Tue,Fried Rice,Sunny,480,440,409,31
+Sun,Biryani,Rainy,358,380,336,44
+Thu,Chapati,Sunny,562,588,519,69
+Sat,Pongal,Cloudy,476,427,405,22
+Thu,Chapati,Sunny,290,288,271,17
+Thu,Biryani,Rainy,554,519,479,40
+Sat,Pongal,Rainy,378,378,348,30
+Tue,Pongal,Rainy,273,286,254,32
+Sat,Chapati,Cloudy,367,373,338,35
+Mon,Meals,Sunny,328,311,295,16
+Tue,Biryani,Sunny,549,542,509,33
+Sat,Fried Rice,Cloudy,262,257,232,25
+Thu,Meals,Cloudy,453,471,424,47
+Sun,Fried Rice,Rainy,100,101,92,9
+Wed,Chapati,Sunny,269,253,235,18
+Fri,Chapati,Sunny,328,296,279,17
+Fri,Biryani,Cloudy,429,455,405,50
+Sat,Meals,Rainy,446,448,422,26
+Wed,Pongal,Sunny,545,549,493,56
+Thu,Fried Rice,Sunny,528,544,480,64
+Wed,Biryani,Cloudy,479,501,437,64
+Sun,Fried Rice,Cloudy,180,185,167,18
+Sun,Pongal,Cloudy,106,107,98,9
+Mon,Fried Rice,Cloudy,305,284,268,16
+Fri,Fried Rice,Cloudy,457,429,391,38
+Thu,Biryani,Sunny,663,639,570,69
+Thu,Chapati,Cloudy,548,551,518,33
+Sat,Biryani,Rainy,570,566,506,60
+Thu,Meals,Sunny,465,419,398,21
+Thu,Biryani,Rainy,613,618,578,40
+Sat,Chapati,Sunny,391,390,364,26
+Mon,Biryani,Rainy,361,368,321,47
+Sun,Meals,Rainy,406,379,357,22
+Sat,Pongal,Cloudy,198,211,185,26
+Thu,Biryani,Sunny,378,350,324,26
+Sun,Chapati,Rainy,313,305,282,23
+Thu,Biryani,Rainy,223,218,192,26
+Sat,Pongal,Sunny,347,320,296,24
+Fri,Biryani,Sunny,414,443,391,52
+Fri,Biryani,Sunny,579,580,508,72
+Tue,Biryani,Sunny,670,638,590,48
+Wed,Meals,Sunny,328,302,287,15
+Wed,Meals,Rainy,333,323,307,16
+Wed,Fried Rice,Cloudy,495,503,453,50
+Mon,Biryani,Cloudy,369,353,321,32
+Thu,Chapati,Rainy,321,307,289,18
+Fri,Meals,Sunny,208,198,180,18
+Mon,Fried Rice,Rainy,297,305,278,27
+Fri,Meals,Rainy,395,387,342,45
+Wed,Biryani,Cloudy,353,343,319,24
+Sun,Biryani,Cloudy,581,530,494,36
+Sat,Meals,Sunny,133,122,115,7
+Fri,Biryani,Sunny,349,340,310,30
+Sun,Pongal,Sunny,214,211,195,16
+Thu,Pongal,Sunny,540,512,462,50
+Wed,Chapati,Sunny,399,381,358,23
+Sat,Pongal,Cloudy,137,128,117,11
+Fri,Pongal,Cloudy,241,248,217,31
+Thu,Meals,Rainy,303,317,285,32
+Fri,Meals,Rainy,518,531,482,49
+Wed,Meals,Rainy,517,495,462,33
+Thu,Biryani,Cloudy,457,427,406,21
+Sun,Biryani,Cloudy,358,380,337,43
+Fri,Meals,Sunny,341,347,322,25
+Wed,Fried Rice,Sunny,529,521,494,27
+Tue,Meals,Rainy,354,371,326,45
+Sat,Chapati,Rainy,420,443,396,47
+Sat,Meals,Rainy,338,341,299,42
+Sun,Biryani,Cloudy,159,159,149,10
+Mon,Chapati,Rainy,462,451,397,54
+Sun,Pongal,Rainy,117,116,101,15
+Tue,Pongal,Cloudy,420,408,388,20
+Wed,Meals,Sunny,413,414,362,52
+Fri,Pongal,Cloudy,232,219,198,21
+Fri,Biryani,Cloudy,565,594,524,70
+Mon,Chapati,Rainy,391,378,340,38
+Thu,Biryani,Cloudy,468,474,440,34
+Mon,Chapati,Sunny,559,519,491,28
+Wed,Pongal,Cloudy,446,434,385,49
+Fri,Pongal,Sunny,412,439,389,50
+Sat,Fried Rice,Rainy,258,234,223,11
+Fri,Meals,Rainy,524,518,490,28
+Fri,Fried Rice,Sunny,269,252,231,21
+Fri,Pongal,Cloudy,198,201,179,22
+Sat,Pongal,Sunny,145,147,134,13
+Thu,Chapati,Cloudy,340,365,320,45
+Thu,Chapati,Rainy,514,488,458,30
+Thu,Meals,Cloudy,397,396,375,21
+Wed,Fried Rice,Sunny,321,331,299,32
+Sat,Meals,Cloudy,504,518,452,66
+Thu,Fried Rice,Rainy,406,412,383,29
+Fri,Fried Rice,Rainy,369,387,348,39
+Thu,Meals,Sunny,369,346,321,25
+Mon,Biryani,Cloudy,596,575,530,45
+Tue,Fried Rice,Rainy,205,216,191,25
+Mon,Fried Rice,Rainy,358,355,324,31
+Fri,Fried Rice,Sunny,444,421,394,27
+Mon,Chapati,Cloudy,344,317,297,20
+Sun,Biryani,Sunny,476,469,430,39
+Tue,Biryani,Cloudy,479,479,446,33
+Sat,Fried Rice,Cloudy,231,225,214,11
+Fri,Meals,Cloudy,291,288,257,31
+Fri,Chapati,Cloudy,575,545,515,30
+Sun,Meals,Cloudy,267,285,253,32
+Sun,Meals,Cloudy,379,376,333,43
+Thu,Fried Rice,Rainy,541,550,506,44
+Sat,Meals,Sunny,431,439,407,32
+Fri,Chapati,Rainy,145,147,137,10
+Thu,Biryani,Rainy,412,383,352,31
+Fri,Pongal,Rainy,329,340,300,40
+Sun,Meals,Cloudy,376,392,345,47
+Sat,Meals,Cloudy,385,387,355,32
+Thu,Meals,Rainy,185,175,158,17
+Mon,Biryani,Rainy,242,246,215,31
+Wed,Biryani,Cloudy,265,250,234,16
+Tue,Pongal,Cloudy,213,214,194,20
+Wed,Pongal,Sunny,547,502,477,25
+Sat,Fried Rice,Cloudy,100,91,85,6
+Mon,Chapati,Rainy,201,191,181,10
+Thu,Pongal,Rainy,465,467,408,59
+Tue,Biryani,Rainy,615,633,562,71
+Tue,Biryani,Rainy,445,421,400,21
+Thu,Chapati,Cloudy,448,450,410,40
+Thu,Chapati,Cloudy,358,351,324,27
+Fri,Biryani,Rainy,555,560,502,58
+Mon,Chapati,Cloudy,303,295,264,31
+Sat,Pongal,Sunny,153,159,143,16
+Thu,Pongal,Sunny,182,182,170,12
+Fri,Fried Rice,Rainy,179,178,165,13
+Wed,Pongal,Sunny,417,427,375,52
+Thu,Pongal,Rainy,287,272,244,28
+Tue,Chapati,Cloudy,548,550,518,32
+Mon,Meals,Cloudy,493,503,463,40
+Sat,Meals,Sunny,497,513,451,62
+Tue,Fried Rice,Cloudy,311,318,283,35
+Thu,Meals,Cloudy,460,434,395,39
+Tue,Pongal,Sunny,497,468,437,31
+Sat,Meals,Cloudy,215,204,189,15
+Sat,Chapati,Rainy,316,299,283,16
+Sat,Fried Rice,Sunny,140,140,123,17
+Wed,Chapati,Sunny,518,473,448,25
+Mon,Chapati,Rainy,132,126,117,9
+Sat,Fried Rice,Sunny,293,266,251,15
+Mon,Chapati,Sunny,206,199,183,16
+Sun,Meals,Sunny,403,402,364,38
+Sun,Fried Rice,Cloudy,495,486,442,44
+Mon,Pongal,Rainy,464,442,397,45
+Tue,Chapati,Sunny,506,489,434,55
+Wed,Fried Rice,Sunny,357,329,308,21
+Mon,Chapati,Cloudy,240,242,211,31
+Mon,Biryani,Rainy,552,534,483,51
+Tue,Fried Rice,Rainy,150,137,130,7
+Sun,Meals,Cloudy,175,171,153,18
+Tue,Biryani,Cloudy,468,480,423,57
+Fri,Fried Rice,Rainy,304,300,270,30
+Sat,Chapati,Rainy,127,118,110,8
+Sun,Pongal,Cloudy,115,108,98,10
+Tue,Chapati,Sunny,315,321,283,38
+Wed,Chapati,Rainy,221,223,195,28
+Sun,Fried Rice,Rainy,317,334,295,39
+Sun,Fried Rice,Sunny,190,190,171,19
+Mon,Pongal,Cloudy,527,530,494,36
+Thu,Biryani,Rainy,593,587,521,66
+Mon,Biryani,Rainy,614,616,563,53
+Sat,Biryani,Cloudy,230,235,209,26
+Wed,Biryani,Rainy,545,573,499,74
+Sat,Meals,Sunny,436,450,395,55
+Wed,Pongal,Sunny,294,298,261,37
+Thu,Fried Rice,Cloudy,496,480,424,56
+Tue,Pongal,Rainy,130,136,121,15
+Wed,Chapati,Sunny,440,453,410,43
+Mon,Fried Rice,Sunny,305,315,275,40
+Sun,Meals,Cloudy,246,265,232,33
+Tue,Biryani,Cloudy,496,485,428,57
+Wed,Biryani,Rainy,279,286,254,32
+Thu,Fried Rice,Cloudy,533,513,460,53
+Thu,Meals,Sunny,430,453,400,53
+Tue,Chapati,Sunny,412,411,373,38
+Thu,Biryani,Rainy,276,255,242,13
+Sat,Chapati,Cloudy,100,90,86,4
+Wed,Biryani,Rainy,475,435,407,28
+Tue,Fried Rice,Cloudy,224,228,207,21
+Thu,Chapati,Rainy,163,151,143,8
+Mon,Meals,Sunny,203,203,178,25
+Fri,Meals,Cloudy,494,504,455,49
+Tue,Fried Rice,Rainy,380,359,333,26
+Wed,Meals,Sunny,402,435,379,56
+Fri,Biryani,Rainy,470,460,423,37
+Wed,Fried Rice,Rainy,404,383,349,34
+Fri,Biryani,Sunny,327,337,299,38
+Sat,Fried Rice,Rainy,185,177,158,19
+Thu,Meals,Rainy,465,478,421,57
+Sun,Biryani,Cloudy,341,306,292,14
+Wed,Fried Rice,Sunny,344,333,307,26
+Sun,Fried Rice,Cloudy,210,207,191,16
+Thu,Biryani,Cloudy,635,659,600,59
+Tue,Pongal,Cloudy,219,209,198,11
+Thu,Pongal,Cloudy,304,297,269,28
+Tue,Chapati,Cloudy,562,573,521,52
+Sun,Pongal,Cloudy,173,180,161,19
+Tue,Biryani,Sunny,593,560,531,29
+Tue,Pongal,Sunny,185,191,173,18
+Tue,Chapati,Sunny,506,525,459,66
+Sun,Fried Rice,Rainy,100,91,85,6
+Fri,Chapati,Cloudy,418,417,377,40
+Tue,Meals,Cloudy,238,217,206,11
+Wed,Fried Rice,Sunny,339,322,295,27
+Thu,Chapati,Rainy,243,235,212,23
+Fri,Meals,Cloudy,491,493,431,62
+Tue,Chapati,Sunny,543,567,500,67
+Mon,Pongal,Sunny,236,234,212,22
+Wed,Pongal,Rainy,403,393,356,37
+Sat,Meals,Rainy,329,327,306,21
+Sun,Meals,Cloudy,376,367,348,19
+Thu,Chapati,Cloudy,214,205,187,18
+Fri,Biryani,Cloudy,509,507,481,26
+Wed,Pongal,Cloudy,433,423,379,44
+Mon,Meals,Rainy,380,391,351,40
+Tue,Chapati,Rainy,467,498,443,55
+Sun,Fried Rice,Cloudy,258,246,225,21
+Thu,Chapati,Cloudy,357,358,331,27
+Fri,Chapati,Sunny,234,215,199,16
+Fri,Biryani,Sunny,634,647,586,61
+Tue,Meals,Sunny,554,532,502,30
+Tue,Biryani,Rainy,436,415,378,37
+Wed,Pongal,Sunny,360,367,323,44
+Sun,Meals,Sunny,155,157,139,18
+Sun,Biryani,Cloudy,219,229,203,26
+Thu,Pongal,Sunny,427,432,399,33
+Fri,Chapati,Rainy,334,343,304,39
+Wed,Chapati,Cloudy,579,552,494,58
+Wed,Biryani,Cloudy,539,509,482,27
+Sat,Pongal,Sunny,186,198,175,23
+Sat,Chapati,Rainy,306,298,263,35
+Wed,Pongal,Rainy,233,228,213,15
+Thu,Biryani,Rainy,481,483,422,61
+Sun,Meals,Cloudy,345,347,308,39
+Thu,Biryani,Rainy,586,627,552,75
+Sat,Fried Rice,Rainy,375,355,324,31
+Tue,Chapati,Cloudy,544,560,500,60
+Wed,Chapati,Rainy,152,152,134,18
+Sun,Meals,Cloudy,173,163,154,9
+Tue,Chapati,Rainy,258,252,224,28
+Fri,Fried Rice,Cloudy,336,325,297,28
+Mon,Meals,Rainy,411,402,369,33
+Tue,Chapati,Rainy,500,511,463,48
+Wed,Biryani,Rainy,192,191,175,16
+Fri,Meals,Rainy,321,318,290,28
+Sat,Chapati,Sunny,305,295,275,20
+Fri,Pongal,Cloudy,547,516,489,27
+Sat,Pongal,Sunny,316,318,282,36
+Wed,Pongal,Rainy,250,254,228,26
+Sat,Fried Rice,Cloudy,318,312,279,33
+Mon,Pongal,Rainy,361,351,316,35
+Wed,Fried Rice,Sunny,592,591,527,64
+Mon,Fried Rice,Cloudy,244,244,215,29
+Mon,Chapati,Cloudy,438,404,383,21
+Mon,Chapati,Cloudy,285,279,261,18
+Sun,Meals,Rainy,176,175,165,10
+Mon,Fried Rice,Rainy,539,514,486,28
+Wed,Biryani,Rainy,348,355,326,29
+Fri,Pongal,Rainy,265,242,228,14
+Fri,Pongal,Sunny,460,450,423,27
+Mon,Fried Rice,Cloudy,274,259,246,13
+Thu,Pongal,Rainy,175,162,155,7
+Fri,Pongal,Sunny,381,349,327,22
+Sat,Fried Rice,Rainy,276,272,257,15
+Thu,Biryani,Cloudy,429,431,405,26
+Thu,Fried Rice,Cloudy,409,380,361,19
+Tue,Chapati,Sunny,549,541,504,37
+Tue,Pongal,Sunny,236,228,203,25
+Sat,Fried Rice,Rainy,100,97,87,10
+Sat,Meals,Sunny,247,238,210,28
+Tue,Meals,Sunny,517,537,485,52
+Wed,Pongal,Sunny,272,253,239,14
+Thu,Chapati,Sunny,347,316,300,16
+Sun,Biryani,Sunny,394,386,349,37
+Thu,Biryani,Cloudy,533,515,466,49
+Fri,Fried Rice,Cloudy,302,284,257,27
+Tue,Biryani,Cloudy,426,426,401,25
+Wed,Chapati,Rainy,228,234,210,24
+Sat,Meals,Cloudy,419,427,385,42
+Tue,Meals,Sunny,445,400,378,22
+Tue,Pongal,Rainy,377,350,320,30
+Sun,Pongal,Cloudy,307,300,268,32
+Fri,Meals,Cloudy,236,228,207,21
+Mon,Meals,Cloudy,350,342,317,25
+Wed,Biryani,Sunny,348,320,298,22
+Sat,Biryani,Cloudy,485,488,449,39
+Mon,Biryani,Sunny,633,607,576,31
+Mon,Meals,Sunny,247,232,210,22
+Sat,Biryani,Sunny,227,221,202,19
+Sat,Chapati,Cloudy,103,97,91,6
+Wed,Biryani,Rainy,586,578,515,63
+Tue,Chapati,Sunny,222,201,191,10
+Mon,Pongal,Sunny,298,281,264,17
+Tue,Meals,Cloudy,419,400,379,21
+Sat,Biryani,Rainy,502,500,444,56
+Wed,Biryani,Rainy,292,293,256,37
+Sat,Fried Rice,Cloudy,442,433,407,26
+Sat,Pongal,Rainy,180,171,157,14
+Thu,Chapati,Rainy,489,446,421,25
+Thu,Chapati,Rainy,207,190,177,13
+Sat,Fried Rice,Cloudy,413,412,372,40
+Sat,Biryani,Rainy,261,264,240,24
+Wed,Chapati,Cloudy,298,285,258,27
+Wed,Meals,Rainy,246,246,215,31
+Sun,Fried Rice,Rainy,151,149,140,9
+Sat,Pongal,Sunny,338,312,296,16
+Tue,Pongal,Sunny,295,300,272,28
+Wed,Chapati,Sunny,546,572,500,72
+Fri,Meals,Cloudy,530,561,496,65
+Thu,Biryani,Cloudy,643,647,610,37
+Mon,Chapati,Sunny,391,364,336,28
+Mon,Chapati,Cloudy,566,543,489,54
